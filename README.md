@@ -1,4 +1,4 @@
-# # Log File Classification using DBSCAN and Regex
+ # Log File Classification using DBSCAN and Regex
 
 ## Description
 This project classifies log files using the DBSCAN clustering algorithm along with regular expressions (regex) for pattern recognition. It helps in identifying patterns and anomalies within log data, making it useful for log analysis and cybersecurity applications.
